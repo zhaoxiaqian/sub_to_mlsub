@@ -73,7 +73,6 @@ class Resquest(BaseHTTPRequestHandler):
         print(dic3)
         self.wfile.write(vmesscode) #返回内容
 
-
 def vmess_re():
     req = urllib.request.Request(url=subscribe_url, headers=headers)
     return_content = urllib.request.urlopen(req).read()
