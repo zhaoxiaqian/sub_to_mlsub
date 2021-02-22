@@ -97,7 +97,7 @@ def vmess_re():
             #jj = base64.urlsafe_b64decode(shar[1]) # 解析VMESS参数得到josn字符串 后面解析unicode
             #print("vmess参数解析得到josn内容：",jj)
 
-
+ 
 
 if __name__ == '__main__':
     server = HTTPServer(host, Resquest)
