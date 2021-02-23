@@ -1,6 +1,6 @@
 # 普通订阅转免流订阅 
 - 原理  
-  - 将原来的订阅解析后添加免流host以及path 默认不改变path
+  - 将原来的订阅解析后添加免流host
   - 使用方法   服务器域名/&&订阅链接&&免流host&&转换后服务器前缀
   - 我这里已经在服务器上搭建好了    jklist.ml:888
   - 白嫖党专属链接  jklist.ml:888/&&https://sub.qaq.wtf/&&m.iqiyi.com&&iqiyi  
