@@ -13,10 +13,10 @@
   - 20210304 更新   端口筛选 从订阅池或者机场的订阅里面筛选 
 #
 - 白嫖链接
-  - https://sub.qaq.wtf
-  - https://sspool.herokuapp.com/vmess/sub
-  - https://proxy.moneyfly.club/vmess/sub
-  - 
+  - https://sub.qaq.wtf     ws+443较多  适合电信不限端口
+  - https://sspool.herokuapp.com/vmess/sub   订阅池 什么都有
+  - https://proxy.moneyfly.club/vmess/sub    订阅池 什么都有
+  - https://papaya-rss.com/link/5q3uwf6VPhhHuwXD?sub=3   ws+80/443
 # 欢迎加入讨论群:<https://t.me/mlsao>
 
 
