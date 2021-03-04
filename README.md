@@ -10,6 +10,13 @@
   - iqiyi 为转换后手机上显示的服务器名称前缀可为空则不修(如软件支持中文可使用中文)
 - 更新记录
   - 20210222 更新   鉴于有些订阅里面包含有一个&符号  导致不可用  现更改为两个&&符号来进行分割
+  - 20210304 更新   端口筛选 从订阅池或者机场的订阅里面筛选 
+#
+- 白嫖链接
+  - https://sub.qaq.wtf
+  - https://sspool.herokuapp.com/vmess/sub
+  - https://proxy.moneyfly.club/vmess/sub
+  - 
 # 欢迎加入讨论群:<https://t.me/mlsao>
 
 
