@@ -17,6 +17,10 @@
   - https://sspool.herokuapp.com/vmess/sub   订阅池 什么都有
   - https://proxy.moneyfly.club/vmess/sub    订阅池 什么都有
   - https://papaya-rss.com/link/5q3uwf6VPhhHuwXD?sub=3   ws+80/443
+
+- 推荐免流机场  80+ws模式
+  - http://invcode.mugua.pro/0Va8Zu   木瓜
+  - https://xn--mesr8b36x.net/#/register?code=hz5sUa4s  大机场
 # 欢迎加入讨论群:<https://t.me/mlsao>
 
 
