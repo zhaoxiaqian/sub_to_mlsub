@@ -44,6 +44,11 @@ def vmess(self):
 
         return_content = urllib.request.urlopen(req).read()
         print("请求到的内容为：", return_content)
+        # base64 decode should meet the padding rules
+        if (len(return_content) % 3 == 1):
+            return_content += b"="
+        elif (len(return_content) % 3 == 2):
+            return_content += b"=="
         base64Str = base64.urlsafe_b64decode(return_content)  # 进行base64解码
         print("解码后内容：", base64Str)
         print("开始处理...\r")
